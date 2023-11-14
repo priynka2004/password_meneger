@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:password_meneger/password_save_screen.dart';
+import 'package:password_meneger/ui/save_password_screen.dart';
+
 
 void main() {
   runApp(const MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
